@@ -1,5 +1,5 @@
 # arcade-world
 
-Retro arcade games using Vanila Javascript and HTML/CSS.
+Retro arcade games using vanillaJS and HTML/CSS.
 
 https://arcadeworld.netlify.app
