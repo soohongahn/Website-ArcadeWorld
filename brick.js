@@ -77,6 +77,10 @@ function checkEnd(){
   if (score == 150){
     document.getElementById('gameover').innerHTML = "You Win!";
     clearInterval(id);
+    clearCanvas();
+    drawBall();
+    drawPad();
+    drawAllBricks();
   }
 }
 
